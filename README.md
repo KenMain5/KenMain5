@@ -24,6 +24,18 @@
 </div>
 
 ---
+
+### :man_technologist:: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philadelphia.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. My main expertise lie in React and Express right now but I would love to move to Java and Angular instead. 
+
+- :seedling: Exploring and Expanding My Knowledge.
+
+- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+  
+- :metal: Interesting fact about me, I backpacked through Europe for two weeks once. Best time of my life. 
+
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
@@ -45,22 +57,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-KenMain5&theme=dark&background=000000)](https://git.io/streak-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kenmain5&theme=dark&background=000000)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiKenMain5anuraghazra&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/kenmain5anuraghazra&layout=compact)
 
-
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=kenmain5" alt="GitHub Streak" /></a>
-<!--
-**KenMain5/KenMain5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card -->
