@@ -7,6 +7,7 @@
   <!--    <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>  -->
+ <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card -->
 
 </div>
   <img src="https://komarev.com/ghpvc/?username=kenmain5&style=flat-square&color=blue" alt=""/>
@@ -60,4 +61,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiKenMain5anuraghazra&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/kenmain5anuraghazra&layout=compact)
 
- <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiKenMain5anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/kenmain5anuraghazra&size_weight=0.5&count_weight=0.5)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/KenMain5anuraghazra&hide_progress=true)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/KenMain5anuraghazra&hide_progress=true)
+
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/KenMain5anuraghazra&hide_progress=true)
+
+   
