@@ -59,7 +59,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiKenMain5anuraghazra&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/kenmain5anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/KenMain5anuraghazra&layout=compact)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiKenMain5anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/kenmain5anuraghazra&size_weight=0.5&count_weight=0.5)
