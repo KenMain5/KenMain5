@@ -1,8 +1,4 @@
 ## Hi there 👋 My names Kenny and welcome to my page!
-<div>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=KenMain5.KenMain5"/> 
-</div>
-
 
 ## 🎓 I'm a Hack Reactor Graduate and a 8 year US Air Force Veteran
 
