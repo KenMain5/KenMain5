@@ -7,7 +7,9 @@
 <img src="https://komarev.com/ghpvc/?username=kenmain5&style=flat-square&color=blue" alt=""/>
 
 
-:envelope: <h2>Link up with me</h2>
+<div style="display: flex; margin-left: 10px;"> 
+  <h2> :envelope: Link up with me</h2>
+</div>
 <div>
   <a href="https://www.linkedin.com/in/kennetharguelles/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
