@@ -1,6 +1,6 @@
 ## Hi there 👋 My names Kenny and welcome to my page!
 
-## 🎓 I'm a Hack Reactor Graduate and a 8 year US Air Force Veteran
+## 🎓 I'm a Full Stack Software Developer with an expertise in Java and Spring, also I served 8 year in the US Air Force 
 
 - 🚀 Currently advancing my skills in Java as a backend.
 - 🤝 Eager to collaborate on diverse projects with fellow enthusiasts.
